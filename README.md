@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on boosting my skills in Django/Python 
 - 🌱 I’m currently learning Javascript
 - 👯 I’m looking to collaborate on every project in Python, Django, DevOps 
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with whatever I can
 - 💬 Ask me about anything
 - 📫 How to reach me: gmail,linkedin
 - 😄 Pronouns: Stay Safe
