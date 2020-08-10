@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about anything
 - 📫 How to reach me: gmail,linkedin
-- 😄 Pronouns: Python
+- 😄 Pronouns: Stay Safe
 - ⚡ Fun fact: Talking through Walking
 
