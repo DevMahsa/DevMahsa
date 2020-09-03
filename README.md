@@ -37,17 +37,17 @@ if __name__ == '__main__':
     me = MahsaG()
 ```
 
-### Learning progress
+### Learning progress <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
 - Front-end ![Front-end learning progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=40&leftFill=%2300FFFF "Front-end learning progress")
 
 
-### Github Stats
+### Github Stats 
 
 ![nfangxu's github stats](https://github-readme-stats.vercel.app/api?username=m9i&show_icons=true&line_height=30)
 
 
-## Get in touch <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+## Get in touch 
 - Personal Site: https://m9i.github.io
 
 
