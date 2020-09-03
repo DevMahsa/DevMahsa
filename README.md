@@ -39,7 +39,7 @@ if __name__ == '__main__':
 
 ### Learning progress
 
-- Front-end ![Front-end learning progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=11&leftFill=%2300FFFF "Front-end learning progress")
+- Front-end ![Front-end learning progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=40&leftFill=%2300FFFF "Front-end learning progress")
 
 
 ### Github Stats
