@@ -23,7 +23,7 @@ class MahsaG:
             'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'VueJS', 'Boostrap'],
             'backend': ['Python', 'Flask', 'Django','NodeJS', 'Odoo'],
             'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB'],
-            'devops': ['Docker', 'Nginx', 'Jenkins', 'GitHub Actions', 'AWS', 'Heroku','Ansible','Sentry'],
+            'devops': ['Docker', 'Nginx', 'Jenkins', 'GitHub Actions', 'AWS', 'Heroku','Terraform', 'Ansible','Sentry'],
             'tools': ['GIT', 'GitHub', 'GitLab', 'Pandas', 'Jupyter notebook', 'SQLAlchemy', 'Redis', 'Celery'],
             'misc': ['Firebase', 'TDD', 'SCRUM', 'SOLID', 'GNU/Linux']
         }
