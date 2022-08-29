@@ -1,6 +1,8 @@
 <h2> Hi, I'm Mahsa! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Software Engineer at <a href="https://www.benevity.com/">B-its</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p></br>Developer Consultant at <a href="https://it.ut.ac.ir/en">University of Tehran</a> and <a href="http://www.iritco.ir/en/">Iranian Information Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<p><em>Software Engineer at <a href="https://www.benevity.com/">B-its</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p></br> Previously worked at 
+<a href="https://www.digitalandcode.com/"> Digital and Code </a>
+<a href="https://it.ut.ac.ir/en">University of Tehran</a> and <a href="http://www.iritco.ir/en/">Iranian Information Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 
 
 [![Twitter: Mahsa](https://img.shields.io/twitter/follow/mahsa?style=social)](https://twitter.com/mahsa_g_)
