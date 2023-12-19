@@ -46,9 +46,6 @@ if __name__ == '__main__':
 - Front-end ![Front-end learning progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=40&leftFill=%2300FFFF "Front-end learning progress")
 
 
-### Github Stats 
-
-![nfangxu's github stats](https://github-readme-stats.vercel.app/api?username=m9i&show_icons=true&line_height=30)
 
 
 ## Get in touch 
